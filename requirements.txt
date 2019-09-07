@@ -1,5 +1,5 @@
+telebot
 pymongo
-requests
 Flask
 Flask_SocketIO
 telebot
