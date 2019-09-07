@@ -1,5 +1,5 @@
 telebot
-tornado
+asyncio
 pymongo
 Flask
 Flask_SocketIO
